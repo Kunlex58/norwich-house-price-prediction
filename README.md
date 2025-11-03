@@ -1,6 +1,6 @@
 # Norwich House Price Forecasting Web Application using MLOps
 
-This Jupyter notebook documents a web application that forecasts house prices in Norwich using an ensemble of machine learning and deep learning models. The ensemble combines Recurrent Neural Networks (RNN), Long Short-Term Memory networks (LSTM), Convolutional Neural Networks (CNN), and XGBoost to leverage complementary modelling strengths. Models are trained on historical data from January 2016 to October 2022, and out-of-sample forecasts run from November 2022 through December 2025. The trained ensemble is served via a Flask web interface that accepts feature inputs and returns predicted prices.
+This project is a web application that forecasts house prices in Norwich using an ensemble of machine learning and deep learning models. The ensemble combines Recurrent Neural Networks (RNN), Long Short-Term Memory networks (LSTM), Convolutional Neural Networks (CNN), and XGBoost to leverage complementary modelling strengths. Models are trained on historical data from January 2016 to October 2022, and out-of-sample forecasts run from November 2022 through December 2025. The trained ensemble is served via a Flask web interface that accepts feature inputs and returns predicted prices.
 
 Live demo: https://norwich-house-prices-prediction.onrender.com/
 
